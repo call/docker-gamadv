@@ -1,3 +1,9 @@
 config.sh
 *.json
 *.txt
+secrets/*
+!secrets/.keep
+config/.gam/*
+!config/.gam/gam.cfg
+drive/*
+!drive/.keep
